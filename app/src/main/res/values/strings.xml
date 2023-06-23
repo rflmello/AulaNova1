@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AulaNova</string>
+    <string name="titulo">Viagens</string>
+    <string name="botao_login">Fazer login</string>
+    <string name="realizar_cadastro">Realizar Cadastro</string>
+    <string name="login">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="nome">Nome:</string>
+    <string name="destino">Destino:</string>
+    <string name="data_inicial">Data início:</string>
+    <string name="data_final">Data Fim:</string>
+    <string name="tipo_viagem">Tipo da Viagem:</string>
+    <string name="orcamento">Orçcamento:</string>
+    <string name="sobre">Desenvolvido por Rafael Melo</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="voltar">Voltar</string>
+    <string name="data_inicio">Data de início:</string>
+    <string name="salvar">Salvar</string>
+    <string name="cadastrar_nome">Nome:</string>
+    <string name="cadastrar_usuario">Cadastro de Usuário</string>
+    <string name="cadastrar_viagem">Cadastro de Viagem</string>
+</resources>
